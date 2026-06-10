@@ -15,8 +15,8 @@
 
 ### 🚀 About Me
 
-- 🎓 Studying **Computer Engineering** at **KMUTT** (King Mongkut's University of Technology Thonburi)
-- 💼 Currently interning as a **Full-Stack Developer** at **Smart Shift Solutions**
+- 🎓 Graduated with a B.Eng. in **Computer Engineering** from **KMUTT** (King Mongkut's University of Technology Thonburi)
+- 💼 Currently Full-time as a **Full-Stack Developer** at **Smart Shift Solutions**
 - 🔭 Building **Next Star** — an AI-powered football scouting system (Senior Project)
 - 🧠 Working with **React/Next.js, Node.js, Python, YOLOv11, LangChain, LLMs**
 - 🏆 Hackathon winner: **CMKL 2025** (฿25,000) & **42Bangkok 2023** ($5,000 AWS Credits)
@@ -97,9 +97,3 @@
 > Full-stack video platform: React/Next.js · Node.js · MySQL
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NawaphonPm&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NawaphonPm&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
