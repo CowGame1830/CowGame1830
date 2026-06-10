@@ -35,6 +35,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 **Frontend**
@@ -75,7 +76,6 @@
 | Year | Achievement |
 |------|------------|
 | 2025 | 🥇 Winner — CMKL Vision-Language Hackathon (฿25,000) |
-| 2025 | 🏃 3K Medley Athlete Winner — 3K Games 2025 |
 | 2023 | 🥇 Winner — 42Bangkok Hackathon ($5,000 AWS Credits) |
 | 2023 | 🎖️ Finalist Honorable Mention — Sirisoft HACKADAY |
 
